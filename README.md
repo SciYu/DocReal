@@ -12,21 +12,33 @@ This Github repository contains *the first Chinese distorted image benchmark*, i
 
 In total, DocReal contains 200 images within five classes, each representing a different deformation type to facilitate qualitative comparisons, providing a comprehensive and diverse dataset for researchers in the field of document image dewarping.
 
+**!!! You can download DocReal through the following link.**  </br>
++ Google Drive: [https://drive.google.com/file/d/1fxdUMMCQoTxc-THv1LmO-Ye8XjMyPK--/view?usp=sharing](https://drive.google.com/file/d/1fxdUMMCQoTxc-THv1LmO-Ye8XjMyPK--/view?usp=drive_link)
+
 ## Method
 
 <p align="center">
     <img src="./Fig/WACV2024_poster.png" width="600">
 </p>
 
-## DocReal Benchmark!!!
-You can download DocReal through the following links.  </br>
-+ Google Drive: [ https://drive.google.com/file/d/1fxdUMMCQoTxc-THv1LmO-Ye8XjMyPK--/view?usp=sharing](https://drive.google.com/file/d/1fxdUMMCQoTxc-THv1LmO-Ye8XjMyPK--/view?usp=drive_link)
+## Performance Evaluation
+
+- Our method achieves the SOTA performance in terms of image similarity and OCR performance.
+<p align="center">
+    <img src="./Fig/performance1.png" width="600">
+</p>
+
+- Our method effectively removes background and improves text readability, while other methods face challenges with residual background and reduced textability.
+<p align="center">
+    <img src="./Fig/performance2.png" width="600">
+</p>
+ 
 
 ## Rectified Results
 
 This work was done during Fangchen Yu’s internship at vivo AI Lab. Due to commercial restrictions, we are unable to provide the source code currently. Instead, we will provide a demo API in the future, allowing for further exploration and optimization by the research community.
 
-You can obtain **our rectified results for DocUNet and DocReal** through the following links. </br>
+You can obtain **our rectified results for DocUNet and DocReal** through the following link. </br>
 + Google Drive: [https://drive.google.com/file/d/1i0LMai40OBl-tit92KKFNg9CnXXKZv6d/view?usp=sharing](https://drive.google.com/file/d/1i0LMai40OBl-tit92KKFNg9CnXXKZv6d/view?usp=drive_link)
 
 
