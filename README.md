@@ -36,9 +36,9 @@ In total, DocReal contains 200 images within five classes, each representing a d
 
 ## Rectified Results
 
-This work was done during Fangchen Yu’s internship at vivo AI Lab. Due to commercial restrictions, we are unable to provide the source code currently. Instead, we will provide a demo API in the future, allowing for further exploration and optimization by the research community.
+This work was done during Fangchen Yu’s internship at vivo AI Lab. *Due to commercial restrictions, we are unable to provide the source code currently.*
 
-You can obtain **our rectified results for DocUNet and DocReal** through the following link. </br>
+However, you can obtain **our rectified results for DocUNet and DocReal** through the following link. </br>
 + Google Drive: [https://drive.google.com/file/d/1i0LMai40OBl-tit92KKFNg9CnXXKZv6d/view?usp=sharing](https://drive.google.com/file/d/1i0LMai40OBl-tit92KKFNg9CnXXKZv6d/view?usp=drive_link)
 
 
